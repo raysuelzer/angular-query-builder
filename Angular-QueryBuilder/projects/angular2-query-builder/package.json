@@ -1,5 +1,6 @@
 {
-  "name": "angular2-query-builder",
+  "name": "angular-query-builder-test",
+  "description": "Fork of angular2-query-builder with angular12 support. Testing only",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^12.0.5",
